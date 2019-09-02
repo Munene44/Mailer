@@ -1,6 +1,3 @@
-
-
-
 Mailboxer.setup do |config|
 
   #Configures if you application uses or not email sending for Notifications and Messages
